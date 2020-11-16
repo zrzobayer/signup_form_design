@@ -1,0 +1,59 @@
+
+*	{
+	margin:20px;
+	font-family:Helvetica;
+	padding:5px 0;
+	}
+.header-area
+	{
+	background:AliceBlue;
+	height:150px;
+	overflow:hidden;
+	margin:0px;
+	}
+.logo{
+	width:200px;
+	 margin:10px auto;
+	
+	}
+.logo img
+	{
+	margin-top:0px;
+	width:150%;
+  
+	}
+.section-area
+	{
+	margin:0px;
+	background:LightCyan;
+	overflow:hidden;
+	}
+
+article
+	{
+	width: 1100px;
+	margin: auto;
+	padding: 10px 5px;
+	border-bottom: 5px solid green;
+	text-align:justify;
+	}
+
+article:last-child
+	{
+	border-bottom: 0;
+	}
+
+.footer-area
+	{
+		width: 100%;
+		margin:0px;
+		padding:0px;
+	}
+.footer-area p
+	{
+	margin:0px;
+	color:white;
+	background:Maroon;
+	padding: 20px 0px;
+	text-align: center;
+	}
